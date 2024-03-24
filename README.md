@@ -9,8 +9,7 @@
 * tifffile 2020.6.3
 
 ## Description of the programs
-- datasets: Dataset Placement
-- pth: Model Placement
+
 - BM3D_api.py: BM3D Algorithm
 - buildingblocks.py: Some neural network layer algorithms
 - data_process.py: Preprocessing of data
